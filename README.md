@@ -1,5 +1,4 @@
-# Python!
-##OWH brown-bag sessions 2015: Bringing some order to the chaos with Python
+# Python! Bring order to the chaos
 
 ###Some things we use Python for
 <ul>
