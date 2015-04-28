@@ -15,6 +15,7 @@
 <li>Running scripts from the Python interpreter vs. executing a python file</li>
 <li>Data types! Numbers, strings, booleans, lists, tuples, dictionaries</li>
 <li>Supplementing the standard library with handy modules -- it's sort of like putting grandma in a nursing home in a socialist country</li>
+</ul>
 
 ###Identify a project
 <ul>
