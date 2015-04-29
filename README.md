@@ -7,7 +7,7 @@
 <li>Scraping inmate records at the <a href="https://github.com/cjwinchester/douglas-county-jail-scraper">Douglas County Jail</a> and <a href="https://github.com/cjwinchester/neb-prison-scraper">state pen</a></li>
 <li>Doing most of the things on <a href="http://www.dataomaha.com">Dataomaha.com</a></li>
 <li>Powering our Twitterbots (<a href="https://github.com/cjwinchester/dutchowh">e.g.</a>)</li>
-<li><a href="http://dataomaha.com/media/news/2015/wildfires/">Processing our data</a></li>
+<li>Processing data</li>
 </ul>
 
 ###Getting started
