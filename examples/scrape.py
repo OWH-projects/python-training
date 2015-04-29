@@ -35,7 +35,7 @@ f = open('trophies.txt', 'wb')
 
 # Loop through the table on each page 
 while (paging < pagelimit):
-   print 'Scraping page', paging
+   print 'Scraping page', paging + 1
    table = soup.find("table", class_="data-grid")
    for row in table.findAll('tr')[2:]:
        col = row.findAll('td')
