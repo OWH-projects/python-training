@@ -23,3 +23,12 @@
 <li>I want to simplify some rote task</li>
 <li>I want to get an email alert when X happens</li>
 </ul>
+
+###Links
+<ul>
+<li><a href="http://www.niemanlab.org/2014/03/when-robots-help-human-journalists-this-post-was-created-by-an-algorithm-written-by-the-author/">Read about the L.A. Times' earthquake bot</a></li>
+<li><a href="http://www.propublica.org/nerds/item/how-to-ask-programming-questions">How to ask programming questions</a></li>
+<li><a href="http://first-web-scraper.readthedocs.org/en/latest/">Writing your first web scraper in Python</a></li>
+<li><a href="http://www.codecademy.com/tracks/python">Learn Python at Codecademy</a></li>
+<li><a href="http://learnpythonthehardway.org/">Learn Python the hard way</a></li>
+</ul>
