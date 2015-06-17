@@ -14,7 +14,7 @@
 <ul>
 <li><a href="https://www.python.org/download/releases/2.7/">Download Python</a></li>
 <li>Running scripts from the Python interpreter vs. executing a python file</li>
-<li>Data types! Numbers, strings, booleans, lists, tuples, dictionaries</li>
+<li>Data types! Numbers, strings, booleans, lists, tuples, dictionaries and more</li>
 <li>Supplementing the standard library with modules</li>
 </ul>
 
